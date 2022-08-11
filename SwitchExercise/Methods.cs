@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using SwitchExercise;
-
-namespace SwitchExercise
+﻿namespace SwitchExercise
 {
     internal class Methods
     {
@@ -13,28 +6,36 @@ namespace SwitchExercise
         {
 
             Random r = new Random();
-            int favNumber = r.Next(1, 100);
-            var guess = int.Parse(Console.ReadLine());
+            int favNumber = r.Next(1, 101);
+            
 
-            if (guess > favNumber)
+            while (true)
             {
-                Console.WriteLine($"Your guess of {guess} is too high!\n" +
-                    $"You Lose!");
-
-
-            }
-            else if (guess < favNumber)
-            {
-                Console.WriteLine($"Your guess of {guess} is too low \n" +
-                    $"You Lose!");
-
-            }
-            else 
-            {
-                Console.WriteLine($"Your guess of {guess} is correct! \n" +
-                    $"WINNER!");
                 
+                var guess = int.Parse(Console.ReadLine());
+                if (guess > favNumber)
+                {
+                    Console.WriteLine($"Your guess of {guess} is too high!\n" +
+                        $"You Lose!");
+
+
+                }
+                else if (guess < favNumber)
+                {
+                    Console.WriteLine($"Your guess of {guess} is too low \n" +
+                        $"You Lose!");
+
+                }
+                else
+                {
+                    Console.WriteLine($"Your guess of {guess} is correct! \n" +
+                        $"WINNER!");
+                    break;
+
+                }
             }
+
+           
         }
 
         public static void SchoolSubjects()
@@ -43,7 +44,7 @@ namespace SwitchExercise
             string favSubject = Console.ReadLine();
             favSubject.ToLower();
 
-            switch(favSubject)
+            switch (favSubject)
             {
                 case "math":
                     Console.WriteLine("Math is essential! keep up the good work!");
@@ -60,11 +61,12 @@ namespace SwitchExercise
                 case "history":
                     Console.WriteLine("Remember kids, History always repeats itself!");
                     break;
-                    default:
-                    break;
-
+                default:
                     Console.WriteLine("Is that REALLY your favorite subject? \n" +
                         "Mine too!");
+                    return;
+                   
+
             }
 
 
@@ -106,12 +108,12 @@ namespace SwitchExercise
 
 
 
-        
 
 
 
-        
-    
+
+
+
 
 
     }
