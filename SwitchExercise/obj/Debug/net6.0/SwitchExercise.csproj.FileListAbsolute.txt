@@ -1,0 +1,15 @@
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\bin\Debug\net6.0\SwitchExercise.exe
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\bin\Debug\net6.0\SwitchExercise.deps.json
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\bin\Debug\net6.0\SwitchExercise.runtimeconfig.json
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\bin\Debug\net6.0\SwitchExercise.dll
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\bin\Debug\net6.0\SwitchExercise.pdb
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\obj\Debug\net6.0\SwitchExercise.csproj.AssemblyReference.cache
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\obj\Debug\net6.0\SwitchExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\obj\Debug\net6.0\SwitchExercise.AssemblyInfoInputs.cache
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\obj\Debug\net6.0\SwitchExercise.AssemblyInfo.cs
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\obj\Debug\net6.0\SwitchExercise.csproj.CoreCompileInputs.cache
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\obj\Debug\net6.0\SwitchExercise.dll
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\obj\Debug\net6.0\refint\SwitchExercise.dll
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\obj\Debug\net6.0\SwitchExercise.pdb
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\obj\Debug\net6.0\SwitchExercise.genruntimeconfig.cache
+C:\Users\615ev\Desktop\repos\SwitchExercise\SwitchExercise\SwitchExercise\obj\Debug\net6.0\ref\SwitchExercise.dll
